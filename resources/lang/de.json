@@ -1,0 +1,23 @@
+{
+    "Login" : "Anmeldung",
+    "Password" : "Passwort",
+    "E-Mail Address" : "E-Mail-Addresse",
+    "Forgot Your Password?" : "Haben Sie Ihr Passwort vergessen?",
+    "Remember Me" : "Erinnere dich an mich",
+    "Register" : "Registrieren",
+    "Confirm Password" : "Bestätige das Passwort",
+    "Name" : "Name",
+    "Welcome to the TourGuide" : "Willkommen beim TourGuide",
+    "View destinations" : "Ziele anzeigen",
+    "View More" : "Mehr sehen",
+    "Book Now" : "buchen Sie jetzt",
+    "Phone" : "Telefon",
+    "Country" : "Land",
+    "You do not have any reservations" : "Sie haben keine Reservierungen",
+    "How many people are coming?" : "Wie viele Leute werden kommen?",
+    "e.g" : "z.B.",
+    "When would you like to visit?" : "Wann möchten Sie besuchen?",
+    "Make a booking" : "Reservieren",
+    "Number of tourists" : "Anzahl der Touristen",
+    "Tour date" : "Tourdatum"
+}

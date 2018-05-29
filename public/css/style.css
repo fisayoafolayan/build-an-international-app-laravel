@@ -1,0 +1,32 @@
+
+:lang(de) body{
+        background: #000000;
+        color:#FFCE00;
+}
+:lang(fr) body{
+        background: #0055A4;
+        color:#ffffff;
+}
+.text-tiny {
+        font-size: 1rem;
+}
+:lang(fr) .text-tiny {
+        background: #EF4135;
+        color:#ffffff;
+        font-weight: 900;
+        padding: 0px 10px;
+}
+:lang(fr) .col-md-4 a, :lang(fr) .col-md-12 a {
+        color:#ffffff;
+        text-decoration: underline;
+        font-weight: 900;
+}
+:lang(fr) .col-md-4 a:hover, :lang(fr) .col-md-12 a:hover {
+        color:#EF4135;
+}
+:lang(de) .text-tiny {
+        background: #DD0000;
+        color:#ffffff;
+        font-weight: 900;
+        padding: 0px 10px;
+}

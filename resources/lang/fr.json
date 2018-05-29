@@ -1,0 +1,23 @@
+{
+    "Login" : "Se connecter",
+    "Password" : "Mot de passe",
+    "E-Mail Address" : "La Adresse électronique",
+    "Forgot Your Password?" : "Mot de passe Oublié?",
+    "Remember Me" : "Souviens-toi de Moi",
+    "Register" : "Enregistrer",
+    "Confirm Password" : "Confirmer Mot de passe",
+    "Name" : "Nom",
+    "Welcome to the TourGuide" : "Bienvenue au TourGuide",
+    "View destinations" : "Voir les destinations",
+    "View More" : "Afficher plus",
+    "Book Now" : "Reserve maintenant",
+    "Phone" : "Téléphone",
+    "Country" : "Votre Pays",
+    "You do not have any reservations" : "Vous n'avez aucune réservation",
+    "How many people are coming?" : "Combien de personnes viennent?",
+    "e.g" : "par exemple",
+    "When would you like to visit?" : "Quand voudriez vous visiter?",
+    "Make a booking" : "Faire une réservation",
+    "Number of tourists" : "Nombre de touristes",
+    "Tour date" : "Date de la tournée"
+}
