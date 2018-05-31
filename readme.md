@@ -16,7 +16,7 @@ What things you need to install the software.
 ## Install
 Clone the git repository on your computer
 ```
-$ git clone https://github.com/fisayoafolayan/Build-an-International-App-With-Laravel.git
+$ git clone https://github.com/fisayoafolayan/build-an-international-app-laravel.git
 ```
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
 
