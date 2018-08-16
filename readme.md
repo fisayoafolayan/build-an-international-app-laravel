@@ -2,7 +2,7 @@
 
 This is a simple implementation of how to build an International Application using Laravel. It has basic authentication features set up.
 
-To follow along, this application has been documented in a 4 part article series. You can read about [Part 1](https://blog.pusher.com/localized-laravel-part-1/), [Part 2](http://blog.pusher.com/localized-laravel-part-2/), [Part 3](http://blog.pusher.com/localized-laravel-part-3/), [Part 4](http://blog.pusher.com/localized-laravel-part-4/) on Pusher [blog](https://blog.pusher.com/).
+To follow along, this application has been documented in a 4 part article series. You can read about [Part 1](https://pusher.com/tutorials/localized-laravel-part-1), [Part 2](https://pusher.com/tutorials/localized-laravel-part-2), [Part 3](https://pusher.com/tutorials/localized-laravel-part-3), [Part 4](https://pusher.com/tutorials/localized-laravel-part-4) on Pusher [blog](https://pusher.com/tutorials).
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
